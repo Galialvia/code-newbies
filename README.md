@@ -73,5 +73,5 @@ The `#code-newbies` channel is meant to be a landing point for those who are com
 ## Slack Ettiquette
 
 ## Resources
-
+- <a href="https://www.freecodecamp.org">FreeCodeCamp.org</a> is a free website to start your coding journey. 
 ## Contacts
